@@ -12,7 +12,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### My GitHub stats:
-![RosenCodes20's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosenCodes20&show_icons=true&bg_color=00000000)
+![RosenCodes20's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosenCodes20&show_icons=true&theme=tokyonight)
 
 ### My most used languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RosenCodes20&size_weight=0.5&count_weight=0.5&theme=tokyonight)
