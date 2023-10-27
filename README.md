@@ -20,7 +20,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RosenCodes20&size_weight=0.5&count_weight=0.5&theme=tokyonight)
 
 ### Rosen's github achievmentss:
-[![Rosen github achievements](https://github-profile-trophy.vercel.app/?username=RosenCodes20)](https://github.com/RosenCodes20/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RosenCodes20&theme=onedark)](https://github.com/RosenCodes20/github-profile-trophy)
 
 ### My GitHub streak:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RosenCodes20)](https://git.io/streak-stats)
