@@ -23,4 +23,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RosenCodes20&theme=onedark)](https://github.com/RosenCodes20/github-profile-trophy)
 
 ### My GitHub streak:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RosenCodes201&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RosenCodes20&theme=dark)](https://git.io/streak-stats)
