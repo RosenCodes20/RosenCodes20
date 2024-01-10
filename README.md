@@ -14,3 +14,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ### Rosen GitHub stats:
 ![Rosen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosenCodes20&show_icons=true&theme=tokyonight)
+### Rosen most used languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosenCodes20&size_weight=0.5&count_weight=0.5&theme=tokyonight)
