@@ -12,5 +12,5 @@
 ### Version control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-### Rosen WakaTime stats:
-[![RosenCOdes20's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RosenCodes20)](https://github.com/anuraghazra/github-readme-stats)
+### Rosen GitHub stats:
+![Rosen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosenCodes20&show_icons=true&theme=tokyonight)
