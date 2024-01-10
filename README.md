@@ -19,7 +19,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RosenCodes20)](https://git.io/streak-stats&theme=tokyonight)
 
 ### Rosen GitHub stats:
-![Rosen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosenCodes20&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RosenCodes20&theme=tokyonight)](https://git.io/streak-stats)
 
 ### Rosen most used languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosenCodes20&size_weight=0.5&count_weight=0.5&theme=tokyonight)
