@@ -22,7 +22,7 @@
 ![Rosen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosenCodes20&theme=tokyonight&show_icons=true)
 
 ### Rosen most used languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosenCodes20&size_weight=0.5&count_weight=0.5&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosenCodes20)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
 
 ### Rosen GitHub trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=RosenCodes20&theme=tokyonight)](https://github.com/RosenCodes20/github-profile-trophy)
