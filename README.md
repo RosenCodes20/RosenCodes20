@@ -16,7 +16,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Rosen GitHub streak:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RosenCodes20&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RosenCodes20)](https://git.io/streak-stats)
 
 ### Rosen GitHub stats:
 ![Rosen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosenCodes20&theme=tokyonight&show_icons=true)
