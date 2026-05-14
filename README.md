@@ -32,3 +32,4 @@
 
 ### Rosen's GitHub trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=RosenCodes20&theme=tokyonight)](https://github.com/RosenCodes20/github-profile-trophy)
+
